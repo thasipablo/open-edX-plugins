@@ -99,4 +99,4 @@ tutor dev restart
 
 * Installing [Tutor](https://docs.tutor.overhang.io/install.html).
 
-* Creating a Tutor plugin [Tutor plugin](https://docs.tutor.overhang.io/tutorials/plugin.html).
+* Creating a [Tutor plugin](https://docs.tutor.overhang.io/tutorials/plugin.html).
