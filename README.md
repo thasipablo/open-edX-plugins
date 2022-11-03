@@ -1,4 +1,4 @@
-# Open-edX-plugins
+# Open edX plugins
 
 </hr>
 
