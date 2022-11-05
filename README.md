@@ -93,7 +93,7 @@ or, with:
 tutor dev restart
 ```
 
-**Done**
+**6. Done**
 
 ## Resources
 
